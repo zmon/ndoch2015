@@ -59,7 +59,7 @@ table h3 {
 /* Carousel base class */
 .carousel {
   height: 500px;
-  background-image: url(../images/sunset.jpg);
+  background-image: url(../images/header-bg/5.jpg);
   background-size: cover;
   background-position: center bottom;
   margin-bottom: 60px;
@@ -352,3 +352,38 @@ h2.first {
 	height: 2em;
 	font-size:1em;
 }
+
+.kcmarketing div {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+p.callout {
+  min-height: 60px;
+}
+
+h1.index {
+  padding-top: 40px;
+}
+
+/* definition list for project list */
+
+
+
+p.project-list {
+  font-size: 21px;
+  text-indent: -5em;
+  padding-left: 5em;
+}
+
+div.index-content {
+  float: left;
+  clear:left;
+}
+
+div.project-issues {
+  width: 41.6667%;
+  float: right;
+  clear:right;
+}
+
