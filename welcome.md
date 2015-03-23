@@ -31,6 +31,8 @@ We are [{{page.local-chapter-name}}]({{page.homepage-url}}), the local chapter o
 
 Code for America Brigade brings together developers, designers, data geeks, civic leaders, organizers, and idea-makers from communities to help local government and civic organizations adopt open web technologies. Code for America Brigade is the volunteer arm of the larger, national organization Code for America.
 
+What is [Civic Hacking](https://www.youtube.com/watch?v=H_on0kXZ07M), this video will help explain it.
+
 ## Who This is For
 Anyone with a desire and a passion for applying their technology skills to improve our community, open government, and open civic data.
 
@@ -58,12 +60,14 @@ You can apply your skills and expertise to work on an existing problem or projec
 ## Who’s in Charge
 
 * Captain: Paul Barham
-* Co-Captain: open
-* Community Organizer: Jennifer Funk and Jon Kohrs
-* Storyteller: Jason Haper
-* Community Data Wrangler / Data Evangelists: open
-* Scribe / Documenter: open
-* Brigade Evangelists: open
+* Brigade Evangelist:                     THEA RASINS
+* Delivery Lead/Data Co-Wrangler: DAVID LaCRONE
+* Developer Evangelist/Data Co-Wrangler: RON HOUSE
+* Developer Evangelist:                 JON KOHRS
+* Documentarian/Storyteller:         JASON HARPER
+* Policy Evangelist:  LESLIE SCOTT
+* User Experience Architect:         OLEH KOVALCHUKE
+
 
 ## How it Works
 
@@ -121,7 +125,7 @@ There are also non-programming tasks in our "task list" at [http://codeforkc.org
 
 * Video of [CfA Brigade's Director inspiring at TED: Why Good Hackers Make Good Citizens](http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens)
 
-* Video of [The Typical Hack Night in Chicago](http://gapersblock.com/thegrid/2014/04/01/open-gov-hack-night/)
+* Video of [The Typical Hack Night in Chicago]((https://www.youtube.com/watch?v=H_on0kXZ07M)
 
 
 ## Get Smart
