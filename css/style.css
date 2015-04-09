@@ -364,3 +364,18 @@ div.project-issues {
   clear:right;
 }
 
+.ndoca-2015 * h2,
+.ndoca-2015 * dt,
+.ndoca-2015 * dd,
+.ndoca-2015 * p {
+  font-size: 21px;
+}
+
+.ndoca-2015 * dt {
+  font-weight: normal;
+}
+
+.ndoca-2015 * dd {
+  font-weight: bolder;
+}
+
