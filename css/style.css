@@ -379,3 +379,11 @@ div.project-issues {
   font-weight: bolder;
 }
 
+.ndoch-2015-img {
+  height: 500px;
+  background-size: cover;
+  background-position: center bottom;
+  margin-bottom: 60px;
+  color: #fff;
+}
+
