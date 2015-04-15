@@ -67,7 +67,7 @@
 
 <!-- Carousel - only using one at the moment
 ================================================== -->
-<div id="banner" class="carousel slide" data-ride="carousel" data-interval="20000">
+<div id="banner" class="carousel slide" data-ride="carousel" data-interval="10000">
     <!-- Indicators -->
     <!-- <ol class="carousel-indicators">
       <li data-target="#banner" data-slide-to="0" class="active"></li>
@@ -77,23 +77,6 @@
     <div class="carousel-inner">
 
         <div class="item active">
-            <div class="container">
-                <div class="jumbotron col-md-12">
-                    <img src="http://www.davidlacrone.com/home/hack-kc.png"/>
-
-                    <div class="row">
-                        <p class="lead col-md-10 col-md-offset-1">
-                            Join Code for Kansas City and
-                            KC Digital Drive for <strong>Hack Kansas City</strong>
-                            and help us #HackforChange
-                        </p>
-                    </div>
-                    <a class="btn btn-success btn-lg" href="{{ site.baseurl }}/hackkc.html">Learn More</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="item">
             <div class="container">
                 <div class="jumbotron col-md-12">
                     <h1>We are Code for <br/> Kansas City</h1>
@@ -142,20 +125,6 @@
     </div>
 </div>
 
-{% elsif page.is_nocd_2015 %}
-
-
-    <div class="container">
-        <div class="row ">
-            <div class="col-lg-6">
-                <img src="http://www.davidlacrone.com/home/hack-kc.png"/>
-            </div>
-            <div class="col-lg-6">
-                <h2>Code for Kansas City<br />KC Digital Drive<br />UMKC School of Law</h2>
-            </div>
-        </div>
-    </div>
-    <!-- /full-width-image-1 -->
 
 {% else %}
 <!-- FEATURED IMAGE AND INTRO -->
@@ -177,6 +146,6 @@
     </div>
     <!-- /title-parent -->
 
-{% endif %}
+    {% endif %}
 
     <div class="container">
